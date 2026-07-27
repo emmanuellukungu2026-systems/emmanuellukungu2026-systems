@@ -65,6 +65,86 @@ I enjoy learning new technologies, solving practical problems, and building appl
 - Cybersecurity
 - Networking
 
+
+
+
+
+
+
+
+# <img src="https://api.iconify.design/material-symbols/code-rounded.svg?color=%23191970" width="24"/> Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,bootstrap,flask,postgres,git,github,vscode,linux,bash&theme=dark"/>
+
+</p>
+
+---
+
+# <img src="https://api.iconify.design/material-symbols/terminal.svg?color=%23191970" width="24"/> Development Environment
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-191970?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Flask-191970?style=for-the-badge&logo=flask&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-191970?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-191970?style=for-the-badge&logo=linux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-191970?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-191970?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+---
+
+# <img src="https://api.iconify.design/material-symbols/monitoring.svg?color=%23191970" width="24"/> GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emmanuellukungu2026-systems&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuellukungu2026-systems&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# <img src="https://api.iconify.design/material-symbols/local-fire-department.svg?color=%23191970" width="24"/> Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=emmanuellukungu2026-systems&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# <img src="https://api.iconify.design/material-symbols/analytics-rounded.svg?color=%23191970" width="24"/> Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=emmanuellukungu2026-systems&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# <img src="https://api.iconify.design/material-symbols/rocket-launch.svg?color=%23191970" width="24"/> Areas of Interest
+
+- Software Engineering
+- Web Development
+- Cybersecurity
+- Network Administration
+- Business Technology
+- Information Systems
+
+---
+
 ---
 
 # <img src="https://api.iconify.design/material-symbols/language.svg?color=%23191970" width="24"/> Languages
