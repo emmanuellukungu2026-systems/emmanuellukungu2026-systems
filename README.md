@@ -1,6 +1,6 @@
 # Hi there, I'm EMMANUEL LUKUNGU! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://imageio.forbes.com/specials-images/imageserve/663e595b4509f97fdafb95f5/0x0.jpg?format=jpg&crop=383,383,x1045,y23,safe&height=416&width=416&fit=bounds)
 
 ## About Me 🚀
 
