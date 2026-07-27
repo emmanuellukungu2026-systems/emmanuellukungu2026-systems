@@ -204,7 +204,7 @@ The goal is to help businesses centralise their daily operations through a secur
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,flask,postgres,html,css,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,flask,postgres,html,css,js&theme=dark"/> ehh
 
 </p>
 
