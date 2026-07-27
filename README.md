@@ -178,7 +178,7 @@ I enjoy learning new technologies, solving practical problems, and building appl
 <!--                         PROJECTS                           -->
 <!-- ========================================================= -->
 
-# <img src="https://api.iconify.design/material-symbols/folder-rounded.svg?color=%23191970" width="24"/> Featured Project
+# <img src="https://api.iconify.design/material-symbols/folder-rounded.svg?color=%23191970" width="24"/> Featured Project  
 
 <table>
 <tr>
@@ -204,7 +204,7 @@ The goal is to help businesses centralise their daily operations through a secur
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,flask,postgres,html,css,js&theme=dark"/> ehh
+<img src="https://skillicons.dev/icons?i=python,flask,postgres,html,css,js&theme=dark"/>
 
 </p>
 
@@ -212,7 +212,7 @@ The goal is to help businesses centralise their daily operations through a secur
 
 <td align="center">
 
-<img width="220" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img width="220" src="images/aethel-logo.png"/>
 
 </td>
 
