@@ -154,3 +154,117 @@ I enjoy learning new technologies, solving practical problems, and building appl
 - Turkish (Learning)
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ========================================================= -->
+<!--                         PROJECTS                           -->
+<!-- ========================================================= -->
+
+# <img src="https://api.iconify.design/material-symbols/folder-rounded.svg?color=%23191970" width="24"/> Featured Project
+
+<table>
+<tr>
+<td width="65%">
+
+## AETHEL DYNAMICS
+
+AETHEL DYNAMICS is a business management platform currently under development.
+
+The goal is to help businesses centralise their daily operations through a secure and intuitive web application.
+
+### Planned Features
+
+- Client Management
+- Appointment Scheduling
+- Project Tracking
+- Financial Management
+- Reporting & Analytics
+- Notifications
+- Secure Authentication
+
+### Technology Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,flask,postgres,html,css,js&theme=dark"/>
+
+</p>
+
+</td>
+
+<td align="center">
+
+<img width="220" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# <img src="https://api.iconify.design/material-symbols/trending-up-rounded.svg?color=%23191970" width="24"/> GitHub Activity
+
+<p align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=emmanuellukungu2026-systems&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# <img src="https://api.iconify.design/material-symbols/public-rounded.svg?color=%23191970" width="24"/> Connect
+
+<p align="center">
+
+<a href="https://github.com/emmanuellukungu2026-systems">
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/emmanuel-lukungu-845a0b420">
+<img src="https://img.shields.io/badge/LinkedIn-191970?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/YOURNUMBER">
+<img src="https://img.shields.io/badge/WhatsApp-191970?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-191970?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<sub>
+Building secure, practical and scalable software — one project at a time.
+</sub>
+
+</p>
+
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:020617,50:191970,100:2563EB"/>
+
+</p>
