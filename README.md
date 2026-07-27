@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Emmanuel Lukungu
 
-## Information Systems Engineering Student | Full-Stack Developer | Future Cybersecurity Engineer
+## Information Systems Engineering Student and Cybersecurity Engineer
 
 I am an Information Systems Engineering student who enjoys building modern, secure, and practical software solutions.
 
@@ -89,8 +89,8 @@ An intelligent business management platform designed to help companies manage cl
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+- GitHub: https://github.com/emmanuellukungu2026-systems
+- LinkedIn: https://linkedin.com/in/www.linkedin.com/in/emmanuel-lukungu-845a0b420
 
 ---
 
