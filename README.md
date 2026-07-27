@@ -337,7 +337,158 @@ After creating the workflow above, display the snake with:
 <img src="https://raw.githubusercontent.com/emmanuellukungu2026-systems/emmanuellukungu2026-systems/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 ```
+<!-- ============================================ -->
+<!--             FEATURED PROJECTS                -->
+<!-- ============================================ -->
 
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🏢 **AETHEL DYNAMICS** | Intelligent Business Management Platform | Flask • PostgreSQL • JavaScript |
+| 🔐 **Cybersecurity Lab** | Security testing, networking & ethical hacking | Linux • Python |
+| 🌐 **Portfolio Website** | Modern responsive personal portfolio | HTML • CSS • JavaScript |
+| ⚡ **Automation Scripts** | Python tools for automation | Python |
+
+</div>
+
+---
+
+# 🏢 AETHEL DYNAMICS
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Status-In%20Development-191970?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Version-1.0-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Framework-Flask-191970?style=for-the-badge&logo=flask"/>
+
+</p>
+
+### 💡 Vision
+
+> Building intelligent software that helps businesses simplify operations, improve productivity and make better decisions.
+
+### Features
+
+- 👥 Client Management
+- 📅 Appointment Scheduling
+- 💼 Project Management
+- 💰 Finance Tracking
+- 📊 Reports & Analytics
+- 🔔 Notifications
+- 📁 Secure Data Storage
+- 🌐 Multi-business Support
+
+---
+
+# 🎯 2026 Goals
+
+- 🛡 Become a Cybersecurity Engineer
+- ☁ Learn Cloud Computing
+- 🌐 Master Full Stack Development
+- 🚀 Launch AETHEL DYNAMICS
+- 🤝 Contribute to Open Source
+- 📚 Obtain Cybersecurity Certifications
+
+---
+
+# 📖 Currently Reading
+
+- 📘 Clean Code
+- 📘 Python Crash Course
+- 📘 Computer Networking
+- 📘 Linux Basics
+- 📘 Web Security
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/emmanuellukungu2026-systems">
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/emmanuel-lukungu-845a0b420">
+<img src="https://img.shields.io/badge/LinkedIn-191970?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/YOURNUMBER">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Favourite Quote
+
+<p align="center">
+
+> **"Technology should solve real-world problems, not create more complexity."**
+
+</p>
+
+---
+
+# ⚡ Fun Facts
+
+```text
+💻 Favourite Language : Python
+
+🌐 Favourite Framework : Flask
+
+🐧 Favourite OS : Linux
+
+🛡 Favourite Field : Cybersecurity
+
+☕ Fuel : Coffee
+
+🎯 Goal : Build software that impacts people.
+```
+
+---
+
+# 📈 Coding Journey
+
+```text
+2023 ───────────── Learned HTML & CSS
+
+2024 ───────────── Started Python
+
+2025 ───────────── Flask & PostgreSQL
+
+2026 ───────────── Cybersecurity & AETHEL DYNAMICS
+
+2027 ───────────── Full Stack Engineer
+```
+
+---
+
+# ❤️ Thanks for Visiting
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=4F7DF3&center=true&vCenter=true&width=900&lines=Thanks+for+visiting!;Feel+free+to+explore+my+repositories.;Let's+build+something+amazing+together!"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:191970,70:2563EB,100:4F7DF3&height=180&section=footer"/>
+
+</p>
 ---
 ---
 
