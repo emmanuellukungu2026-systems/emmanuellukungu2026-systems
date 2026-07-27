@@ -212,7 +212,7 @@ The goal is to help businesses centralise their daily operations through a secur
 
 <td align="center">
 
-<img width="220" src="images/aethel-logo.png"/>
+<img width="220" src="images/aethel_logo.png"/>
 
 </td>
 
