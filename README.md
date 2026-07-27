@@ -1,45 +1,97 @@
-# Hi there, I'm [Your Name]! 👋
+# 👋 Hello, I'm Emmanuel Lukungu
 
-![Banner Image](your_banner_image_url_here)
+## Information Systems Engineering Student | Full-Stack Developer | Future Cybersecurity Engineer
 
-## About Me 🚀
+I am an Information Systems Engineering student who enjoys building modern, secure, and practical software solutions.
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+My goal is to create applications that help businesses automate their work, manage their data efficiently, and make better decisions through technology.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+Currently, I am developing **AETHEL DYNAMICS**, a platform dedicated to creating intelligent digital solutions for businesses and entrepreneurs.
 
-## My Skills 🧠
+---
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+## 🚀 About Me
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+- 🎓 Information Systems Engineering Student
+- 💻 Passionate about Web Development & Software Engineering
+- 🔐 Learning Cybersecurity and Network Administration
+- 🌱 Currently improving my Python, Flask, JavaScript and SQL skills
+- 🚀 Building AETHEL DYNAMICS
+- 🌍 Languages: English • French • Learning Turkish
+- 📍 Based in Northern Cyprus
 
-## Featured Projects 💻
+---
 
-### [Project 1 Title](project_1_link)
+## 🛠️ Technologies & Tools
 
-![Project 1 Screenshot](project_1_screenshot_url)
+### Languages
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### [Project 2 Title](project_2_link)
+### Front-End
 
-![Project 2 Screenshot](project_2_screenshot_url)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+### Back-End
 
-## Get in Touch 📬
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+### Database
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+# 📂 Current Projects
+
+## 🚀 AETHEL DYNAMICS
+
+An intelligent business management platform designed to help companies manage clients, projects, finances, appointments and business operations in one place.
+
+**Technologies**
+
+- Flask
+- PostgreSQL
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 🌱 Currently Learning
+
+- Cybersecurity
+- Networking
+- Ethical Hacking
+- REST APIs
+- Software Architecture
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+
+---
+
+> *"Technology should solve real-world problems, not create more complexity."*
