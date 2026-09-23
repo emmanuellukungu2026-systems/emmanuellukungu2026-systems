@@ -14,7 +14,7 @@ Information Systems Engineering Student • Software Developer • Cybersecurity
 
 </p>
 
-<p align="center">
+<p s align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&center=true&vCenter=true&width=800&color=4F7DF3&lines=Building+modern+software.;Learning+Cybersecurity.;Developing+AETHEL+DYNAMICS."/>
 
@@ -102,17 +102,6 @@ I enjoy learning new technologies, solving practical problems, and building appl
 
 ---
 
-# <img src="https://api.iconify.design/material-symbols/monitoring.svg?color=%23191970" width="24"/> GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emmanuellukungu2026-systems&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuellukungu2026-systems&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # <img src="https://api.iconify.design/material-symbols/local-fire-department.svg?color=%23191970" width="24"/> Contribution Streak
 
@@ -124,15 +113,7 @@ I enjoy learning new technologies, solving practical problems, and building appl
 
 ---
 
-# <img src="https://api.iconify.design/material-symbols/analytics-rounded.svg?color=%23191970" width="24"/> Activity Graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=emmanuellukungu2026-systems&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
 
 # <img src="https://api.iconify.design/material-symbols/rocket-launch.svg?color=%23191970" width="24"/> Areas of Interest
 
