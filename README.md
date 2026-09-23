@@ -6,7 +6,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,40:0F172A,75:191970,100:2563EB&text=Emmanuel%20Lukungu&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=40&desc=Information%20Systems%20Engineering%20Student&descAlignY=62"/>
 </p>
 
-<h1 align="center">Emmanuel Lukungu</h1>
+<h1 align="center">Emmanuel Lukungu</h1> 
 
 <p align="center">
 
@@ -202,15 +202,7 @@ The goal is to help businesses centralise their daily operations through a secur
 
 ---
 
-# <img src="https://api.iconify.design/material-symbols/trending-up-rounded.svg?color=%23191970" width="24"/> GitHub Activity
 
-<p align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=emmanuellukungu2026-systems&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
 
 # <img src="https://api.iconify.design/material-symbols/public-rounded.svg?color=%23191970" width="24"/> Connect
 
