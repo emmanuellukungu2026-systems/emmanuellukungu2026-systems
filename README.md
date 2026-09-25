@@ -165,9 +165,9 @@ I enjoy learning new technologies, solving practical problems, and building appl
 <tr>
 <td width="65%">
 
-## AETHEL DYNAMICS
+## AETHEL technologies
 
-AETHEL DYNAMICS is a business management platform currently under development.
+AETHEL TECHNOLOGIES is a business management platform currently under development.
 
 The goal is to help businesses centralise their daily operations through a secure and intuitive web application.
 
